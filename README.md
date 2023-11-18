@@ -62,5 +62,3 @@ I had trouble with the overlay, but got it figured out. So, I want to work on th
 ## Acknowledgments
 
 I am always acknowledging the helpfulness of https://css-tricks.com/snippets/css/a-guide-to-flexbox/ . This website, along with MDN Web Docs, is always helpful. 
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
